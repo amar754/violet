@@ -48,7 +48,7 @@ nav .contenar{
 }
 @media (max-width:450px){
   nav .contenar{
-    width: 70%;
+     width: 100%;
     padding-left: 10px;
   }
 }
